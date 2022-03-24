@@ -34,6 +34,8 @@ Tensorflow lite를 이용한 감정분석모델 개발 예정
 #### 어플 예상 디자인
 <img src = "https://user-images.githubusercontent.com/29854638/159910752-31b66a92-9aa4-4df3-b7d3-b17af906676a.jpg" width="100%" height="100%">
 
+#### 클래스 다이어그램
+![capstone_classDiagram](https://user-images.githubusercontent.com/29910793/159918184-496107b2-e7f2-4ca6-9311-f921d23d13ad.png)
 
 
 ### 5. 주요 개발 프로세스
