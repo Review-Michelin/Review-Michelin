@@ -39,8 +39,7 @@ Tensorflow lite를 이용한 감정분석모델 개발 예정
 
 
 ### 5. 주요 개발 프로세스
-![4](https://user-images.githubusercontent.com/29854638/159895179-63e62196-434f-4f41-8f65-ebe88b862b30.jpg)
-
+![캡스톤(2)flowChart drawio](https://user-images.githubusercontent.com/29910793/171392099-3e08257a-0003-4182-8097-a81d59fdb1f6.png)
 
 
 
