@@ -18,10 +18,8 @@
 
 
 ### 4. 수행 방안
+![usedStack](https://user-images.githubusercontent.com/29910793/171441296-2787cf19-870b-46c8-90b4-47de9a9e3d61.jpg)
 
-![1](https://user-images.githubusercontent.com/29854638/159894496-6295273d-c0e6-4db4-b78d-cecaf1ccc06e.jpg)
-![2](https://user-images.githubusercontent.com/29854638/159894500-1e2f6640-637c-4679-961c-593317fcda4a.jpg)
-![3](https://user-images.githubusercontent.com/29854638/159894504-ad392547-8829-47ae-b462-92f2a72c6d70.jpg)
 #### 리뷰 크롤러 
 매장의 리뷰 데이터 수집하는 크롤러 제작에 python 사용 예정
 
