@@ -1,0 +1,10 @@
+model/cc.ko.300.bin.gz
+model/ko/ko.bin
+model/ko/ko.tsv
+code/Data Filtering/model.trainables.vectors_ngrams_lockf.npy
+code/Data Filtering/model.wv.vectors_ngrams.npy
+code/Data Filtering/model
+code/Data Filtering/ko.bin.gz
+code/Data Filtering/TransferedModel
+code/Data Filtering/TransferedModel.trainables.syn1neg.npy
+code/Data Filtering/TransferedModel.wv.vectors.npy
