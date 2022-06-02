@@ -18,7 +18,7 @@
 
 
 ### 4. 수행 방안
-![usedStack](https://user-images.githubusercontent.com/29910793/171441296-2787cf19-870b-46c8-90b4-47de9a9e3d61.jpg)
+![usedStacks](https://user-images.githubusercontent.com/29910793/171564806-d1c49d6c-11b3-409b-8d81-471b161d5ec1.png)
 
 #### 리뷰 크롤러 
 매장의 리뷰 데이터 수집하는 크롤러 제작에 python 사용 예정
