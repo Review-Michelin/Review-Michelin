@@ -13,9 +13,9 @@
 
 + [구현 내용](https://github.com/Review-Michelin/Review-Michelin)
 
-+ 샘플 출력 내용
-1.(https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/sample_html_result.pdf) 
-2.(https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/sampel_html_result.jpeg)
+샘플 출력 내용 
++ 1.(https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/sample_html_result.pdf) 
++ 2.(https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/sampel_html_result.jpeg)
  
 ### 1. 개요
 요즘 현대사회에서 배달 앱은 거의 모든 사람들의 폰에 깔려 있다고 해도 과언이 아닙니다. 이러한 배달 앱에서 가장 주목 해야 할 부분은 역시 소비자의 메뉴와 음식점 선택에 큰 영향을 미치는 별점과 리뷰가 아닐까 싶습니다. 대부분의 소비자들은 그 전 소비자들이 남긴 리뷰를 보고 결제를 고민합니다. 점주들 또한 가게의 리뷰와 별점에 따라 배달 앱 속 노출 순위가 달라지고 그것이 매출과 직결되기 때문에 신경을 쓰지 않을 수 없습니다. 이렇게 경쟁이 치열한 배달 업계에서 리뷰의 중요도는 점점 올라가는데, 요즘 리뷰들을 과연 모두 신뢰할 수 있을까요? 
