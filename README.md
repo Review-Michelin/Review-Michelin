@@ -5,7 +5,7 @@
 
 + [최종 보고서](https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
-+ [발표 자료](https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
++ [발표 자료](https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/%EC%BA%A1%EC%8A%A4%ED%86%A4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 + [멘토링 보고서](https://github.com/Review-Michelin/Review-Michelin/tree/main/documents/%EB%A9%98%ED%86%A0%EB%A7%81%EB%B3%B4%EA%B3%A0%EC%84%9C)
 
