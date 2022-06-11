@@ -11,7 +11,7 @@
 
 + [매뉴얼](https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
-+ [구현 내용](https://github.com/Review-Michelin/Review-Michelin)
++ [구현 내용]([https://github.com/Review-Michelin/Review-Michelin](https://github.com/Review-Michelin/Review-Michelin/tree/main/code))
 
 샘플 출력 내용 
 + 1.(https://github.com/Review-Michelin/Review-Michelin/blob/main/documents/sample_html_result.pdf) 
